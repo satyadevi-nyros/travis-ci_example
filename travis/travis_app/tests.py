@@ -7,7 +7,7 @@ from django.test import TestCase
 
 # Create your tests here.
 
-from .models import *
+# from .models import *
 
 # Create your tests here.
 class SimpleTest(TestCase):
